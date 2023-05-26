@@ -1,5 +1,5 @@
 # Telecom-churn-analysis
-Analyzing the dataset of telecom churn 
+
 
 
 We have presented our exploratory data analysis, visualizations, animations and lots of other interesting insights into the Telecom churn analysis.
